@@ -1,7 +1,8 @@
-## nft preview card component main
+<h1>nft Preview Card Component Main</h1>
 
- nft preview card challenge. Fron-end Mentor's second challenge.
- 
- I decided not to put the image in HTML because it would be necessary to use a color in the tone next to the aqua color. So I created a div of "id" "img" and put the photo as background-image.
+<h2>Sobre:</h2>
+<p>Neste projeto do Desafio do site <b>Front-end Mentor</b>(<a herf="">Link do desafio</a>) </p>
 
-So I created a div:hov next to div:img, adjusted the "position", "z-index" to perform the hover requirido in the project.
+<h3>Resultado do Desafio:</h3>
+
+<p>https://danilonewdev.github.io/nft-preview-card-component-main/</p>
